@@ -3,17 +3,19 @@ Place to hold Astro data
 
 I will store raw CR2 files and my initial process of them here.
 
-M13 Hercules Cluster
+These were my very first captures, during my first month, (starting with M13) using SV503 80ED on an iEXOS 100 PMC8 with a Canon 600D camera guided by an SV165 30/120 and SV305 camera
+
+M13 Hercules Cluster = 8 * 3mins = 24 mins
 ![](M13/m13.png)
 
-M27 Dumbbell Nebula
+M27 Dumbbell Nebula = 6 * 3mins = 18 mins
 ![](M27/m27.png)
 
-M31 Andromeda Galaxy
+M31 Andromeda Galaxy = 10 * 3mins = 30 mins
 ![](M31/m31.png)
 
-M33 Triangulum Galaxy
+M33 Triangulum Galaxy = 20 * 5mins = 100 mins
 ![](M33/m33.png)
 
-Veil Nebula
+Veil Nebula = 23 * 4mins  = 92 mins
 ![](Veil/Veil.png)
