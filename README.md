@@ -19,3 +19,17 @@ M33 Triangulum Galaxy = 20 * 5mins = 100 mins
 
 Veil Nebula = 23 * 4mins  = 92 mins
 ![](Veil/Veil.png)
+
+Then the following in October/November (23) - just processed results - no subs and no info about integration times:
+
+Horsehead and Flame Nebulae
+![](Oct_Nov/horse2.png)
+
+Orion Nebula (M42)
+![](Oct_Nov/orion.png)
+
+Pleiades (M45)
+![](Oct_Nov/pleiades.png)
+
+Triangulum Galaxy (M33)
+![](Oct_Nov/triang.png)
